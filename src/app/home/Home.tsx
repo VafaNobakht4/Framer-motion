@@ -12,7 +12,7 @@ const HomePage = () => {
         transition={{ delay: 0.5, duration: 1, ease: "easeInOut" }}
       >
         <p className="text-center text-black text-3xl">Test World</p>
-        <div className="min-w-32 max-w-96 h-96 bg-sky-500 flex justify-center items-center overflow-y-auto p-8 rounded-2xl md:ml-10">
+        <div className="min-w-32 max-w-96 h-96 bg-sky-500 flex justify-center items-center overflow-y-auto p-8 rounded-2xl sm:ml-10">
           <span className="text-center text-lg font-medium">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi a
             vero cupiditate culpa et corrupti architecto ex animi! Maiores est
